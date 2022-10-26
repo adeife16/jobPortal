@@ -1,0 +1,62 @@
+MySQL Main Database name: 281297
+MySQL Database username: 281297
+MySQL Database password: H-Ts2D7UEb_GiCz
+
+MySQL Database host: localhost
+
+Add date registered to profile details (done)
+fix jpeg to jpg in comapny and rider signup (done)
+fix session issue in frontend and backend (done)
+Add Employment Status (done)
+Add Employment Feature (done)
+Add company and rider name to employment request (done)
+
+Add Rating and Review to rider and company profile
+Add Pagination to Rider and Company Search
+Add pasword reset function to admin
+Add Profile page to admin section
+
+===================================
+          Next Upload
+====================================
+#profile.php
+#ajax/all_rider.js
+#ajax/forgot_pass.js
+#ajax/signup.js
+#ajax/verify.js
+#ajax/login.js
+#ajax/profile.js
+#ajax/view_profile.js
+#ajax/all_company.js
+#assets/css/style.css
+assets/js/forgot_pass.js
+assets/js/main.js
+assets/js/notification.js
+assets/js/all_company.js
+assets/js/all_rider.js
+assets/js/view_profile.js
+backend/company_signup.php
+backend/functions.php
+backend/pass_reset.php
+backend/company.php
+backend/rider.php
+backend/view_profile.php
+backend/rider_signup.php
+footer.php
+login.php
+header.php
+profile.php
+signup.php
+index.php
+logout.php
+all_company.php
+all_rider.php
+view_profile.php
+
+
+
+Job Location
+Job tyoe -> Internship
+Salary Range
+Job Description
+Application Deadline
